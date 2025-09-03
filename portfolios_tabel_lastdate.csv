@@ -1,0 +1,146 @@
+"","date","portfolio","RDRM","asset","type","sector","name","ticker","shares","price","currency","value_eur","weight","duurzaam"
+"1",2025-08-31,"DZ50","RM","Obligaties","Staatsobligatie","Staatsobligaties","0,5% Nederland 22-32","NL0.5_732",408722,86.875,"EUR",355340.3875,0.220908392528904,1
+"2",2025-08-31,"DZ50","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 25-35","NL2.5_735",103303,96.675,"EUR",100200.72525,0.0622928941484532,1
+"3",2025-08-31,"DZ50","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 12-33","NL2.5_133",308704,99.008,"EUR",310462.51632,0.193008669527411,1
+"4",2025-08-31,"DZ50","RD","Aandelen","ETF","None","Amundi MSCI Europe ESG Leaders ETF","LEAD_GY",1291,34.8,"EUR",44926.8,0.0279301411226934,1
+"5",2025-08-31,"DZ50","RD","Aandelen","ETF","None","Amundi MSCI World ESG Leaders ETF","MWOP_GY",2818,91.88,"EUR",258917.84,0.160964319968993,1
+"6",2025-08-31,"DZ50","RD","Aandelen","ETF","Health Care","Xtrackers MSCI World Health Care","XDWH_GY",1537,44.655,"EUR",68634.735,0.042668915535241,NA
+"7",2025-08-31,"DZ50","RD","Aandelen","ETF","None","NT Wld SC Low Carbon Eq Index FGR Feeder B","NTSCLBE_NA",73,1283.8539,"EUR",93721.3347,0.0582647796944848,1
+"8",2025-08-31,"DZ50","RD","Aandelen","ETF","None","SPDR S&P 500 Leaders UCITS ETF (Acc)","SPPY_GY",5982,39.315,"EUR",235182.33,0.146208402700923,1
+"9",2025-08-31,"DZ50","RD","Aandelen","ETF","Information Technology","SPDR MSCI World Tech ETF","WTCH_NA",704,172.66,"EUR",121552.64,0.0755669753696223,NA
+"10",2025-08-31,"DZ50","RM","Cash","CASH","Cash","Cash","CASH",19602.51,1,"EUR",19602.51,0.012186509403274,NA
+"11",2025-08-31,"RD100","RD","Aandelen","ETF","Health Care","Xtrackers MSCI World Health Care","XDWH_GY",6627,44.655,"EUR",295928.685,0.0772667437094155,NA
+"12",2025-08-31,"RD100","RD","Aandelen","ETF","None","iShares Core MSCI World","IWDA_NA",13882,104.59,"EUR",1451918.38,0.37909473140277,NA
+"13",2025-08-31,"RD100","RD","Aandelen","ETF","None","iShares STOXX Europe 600","SXXPIEX_GY",4020,55.04,"EUR",221260.8,0.0577710184686566,NA
+"14",2025-08-31,"RD100","RD","Aandelen","ETF","None","NT Wld SC Low Carbon Eq Index FGR Feeder B","NTSCLBE_NA",231,1283.8539,"EUR",296570.2509,0.0774342560543848,1
+"15",2025-08-31,"RD100","RD","Aandelen","ETF","None","SPDR S&P 500 UCITS ETF","SPY5_GY",1988,551.88,"EUR",1097137.44,0.286461710835786,NA
+"16",2025-08-31,"RD100","RD","Aandelen","ETF","Information Technology","SPDR MSCI World Tech ETF","WTCH_NA",2468,172.66,"EUR",426124.88,0.111260866418426,NA
+"17",2025-08-31,"RD100","RM","Cash","CASH","Cash","Cash","CASH",41021.47,1,"EUR",41021.47,0.010710673110562,NA
+"18",2025-08-31,"RD30","RM","Obligaties","Staatsobligatie","Staatsobligaties","0,5% Nederland 22-32","NL0.5_732",512384,86.875,"EUR",445463.49,0.271455411797174,1
+"19",2025-08-31,"RD30","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 25-35","NL2.5_735",158421,96.675,"EUR",153663.49175,0.0936390688969545,1
+"20",2025-08-31,"RD30","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 12-33","NL2.5_133",504920,99.008,"EUR",507796.2436,0.309439587103975,1
+"21",2025-08-31,"RD30","RD","Aandelen","ETF","Health Care","Xtrackers MSCI World Health Care","XDWH_GY",1101,44.655,"EUR",49165.155,0.0299601374662531,NA
+"22",2025-08-31,"RD30","RD","Aandelen","ETF","None","iShares Core MSCI World","IWDA_NA",1558,104.59,"EUR",162951.22,0.0992988011833513,NA
+"23",2025-08-31,"RD30","RD","Aandelen","ETF","None","NT Wld SC Low Carbon Eq Index FGR Feeder B","NTSCLBE_NA",45,1283.8539,"EUR",57773.4255,0.0352058235121263,1
+"24",2025-08-31,"RD30","RD","Aandelen","ETF","None","SPDR S&P 500 UCITS ETF","SPY5_GY",277,551.88,"EUR",152870.76,0.0931559960335849,NA
+"25",2025-08-31,"RD30","RD","Aandelen","ETF","Information Technology","SPDR MSCI World Tech ETF","WTCH_NA",516,172.66,"EUR",89092.56,0.0542909982653447,NA
+"26",2025-08-31,"RD30","RM","Cash","CASH","Cash","Cash","CASH",22242.66,1,"EUR",22242.66,0.0135541757412364,NA
+"27",2025-08-31,"RD50","RM","Obligaties","Staatsobligatie","Staatsobligaties","0,5% Nederland 22-32","NL0.5_732",667254,86.875,"EUR",580106.5125,0.220150966710593,1
+"28",2025-08-31,"RD50","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 25-35","NL2.5_735",167598,96.675,"EUR",162564.8965,0.0616935310094152,1
+"29",2025-08-31,"RD50","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 12-33","NL2.5_133",505117,99.008,"EUR",507994.36936,0.1927843406139,1
+"30",2025-08-31,"RD50","RD","Aandelen","ETF","Health Care","Xtrackers MSCI World Health Care","XDWH_GY",2567,44.655,"EUR",114629.385,0.0435019593426659,NA
+"31",2025-08-31,"RD50","RD","Aandelen","ETF","None","iShares Core MSCI World","IWDA_NA",4132,104.59,"EUR",432165.88,0.164007357633886,NA
+"32",2025-08-31,"RD50","RD","Aandelen","ETF","None","iShares STOXX Europe 600","SXXPIEX_GY",1353,55.04,"EUR",74469.12,0.0282611010302821,NA
+"33",2025-08-31,"RD50","RD","Aandelen","ETF","None","NT Wld SC Low Carbon Eq Index FGR Feeder B","NTSCLBE_NA",119,1283.8539,"EUR",152778.6141,0.0579796276409146,1
+"34",2025-08-31,"RD50","RD","Aandelen","ETF","None","SPDR S&P 500 UCITS ETF","SPY5_GY",684,551.88,"EUR",377485.92,0.143256261422574,NA
+"35",2025-08-31,"RD50","RD","Aandelen","ETF","Information Technology","SPDR MSCI World Tech ETF","WTCH_NA",1152,172.66,"EUR",198904.32,0.0754843763815064,NA
+"36",2025-08-31,"RD50","RM","Cash","CASH","Cash","Cash","CASH",33940.57,1,"EUR",33940.57,0.0128804782142633,NA
+"37",2025-08-31,"RD70","RM","Obligaties","Staatsobligatie","Staatsobligaties","0,5% Nederland 22-32","NL0.5_732",331964,86.875,"EUR",288607.455,0.118312233532785,1
+"38",2025-08-31,"RD70","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 25-35","NL2.5_735",112182,96.675,"EUR",108813.0785,0.044607019437226,1
+"39",2025-08-31,"RD70","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 12-33","NL2.5_133",291577,99.008,"EUR",293237.94616,0.120210464995633,1
+"40",2025-08-31,"RD70","RD","Aandelen","ETF","Health Care","Xtrackers MSCI World Health Care","XDWH_GY",2893,44.655,"EUR",129186.915,0.0529591048050374,NA
+"41",2025-08-31,"RD70","RD","Aandelen","ETF","None","iShares Core MSCI World","IWDA_NA",6195,104.59,"EUR",647935.05,0.265615602166884,NA
+"42",2025-08-31,"RD70","RD","Aandelen","ETF","None","iShares STOXX Europe 600","SXXPIEX_GY",2190,55.04,"EUR",120537.6,0.0494133898262658,NA
+"43",2025-08-31,"RD70","RD","Aandelen","ETF","None","NT Wld SC Low Carbon Eq Index FGR Feeder B","NTSCLBE_NA",114,1283.8539,"EUR",146359.3446,0.0599987999548405,1
+"44",2025-08-31,"RD70","RD","Aandelen","ETF","None","SPDR S&P 500 UCITS ETF","SPY5_GY",891,551.88,"EUR",491725.08,0.201578619994025,NA
+"45",2025-08-31,"RD70","RD","Aandelen","ETF","Information Technology","SPDR MSCI World Tech ETF","WTCH_NA",1060,172.66,"EUR",183019.6,0.0750273677312909,NA
+"46",2025-08-31,"RD70","RM","Cash","CASH","Cash","Cash","CASH",29949.13,1,"EUR",29949.13,0.0122773975560117,NA
+"47",2025-08-31,"VD50","RM","Obligaties","Staatsobligatie","Staatsobligaties","0,5% Nederland 22-32","NL0.5_732",533770,86.875,"EUR",464056.3475,0.187572168302884,1
+"48",2025-08-31,"VD50","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 25-35","NL2.5_735",159113,96.675,"EUR",154334.70275,0.0623822839514087,1
+"49",2025-08-31,"VD50","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 12-33","NL2.5_133",496987,99.008,"EUR",499818.05896,0.202027097746068,1
+"50",2025-08-31,"VD50","RD","Aandelen","USD Stock","Information Technology","Accenture A","ACN_UN",111,259.97,"USD",24752.6762738034,0.0100050633613554,1
+"51",2025-08-31,"VD50","RD","Aandelen","USD Stock","Communication Services","Alphabet - A","GOOGL_UW",323,212.91,"USD",58989.4750386001,0.0238436211456823,1
+"52",2025-08-31,"VD50","RD","Aandelen","ETF","None","Amundi MSCI World ESG Leaders ETF","MWOP_GY",1523,91.88,"EUR",139933.24,0.056561194315843,1
+"53",2025-08-31,"VD50","RD","Aandelen","EUR Stock","Information Technology","ASML Holding","ASML_NA",77,636.6,"EUR",49018.2,0.0198132190408287,1
+"54",2025-08-31,"VD50","RD","Aandelen","USD Stock","Financials","Bank of America","BAC_UN",1089,50.74,"USD",47397.3751930005,0.0191580795838946,NA
+"55",2025-08-31,"VD50","RD","Aandelen","USD Stock","Health Care","Bristol Myers Squibb","BMY_UN",455,47.18,"USD",18413.8788814548,0.00744291336013061,NA
+"56",2025-08-31,"VD50","RD","Aandelen","USD Stock","Industrials","Cummins Inc","CMI_UN",145,398.44,"USD",49557.2139303483,0.0200310891598467,1
+"57",2025-08-31,"VD50","RD","Aandelen","ETF","Health Care","Xtrackers MSCI World Health Care","XDWH_GY",1005,44.655,"EUR",44878.275,0.0181398560687571,NA
+"58",2025-08-31,"VD50","RD","Aandelen","EUR Stock","Consumer Discretionary","Kering","KER_FP",62,229.15,"EUR",14207.3,0.00574260880405168,1
+"59",2025-08-31,"VD50","RD","Aandelen","EUR Stock","Consumer Staples","LOreal","OR_FP",74,397.9,"EUR",29444.6,0.0119015449235098,1
+"60",2025-08-31,"VD50","RD","Aandelen","USD Stock","Health Care","Medtronic","MDT_UN",442,92.81,"USD",35187.8709898782,0.0142229823923131,NA
+"61",2025-08-31,"VD50","RD","Aandelen","USD Stock","Health Care","Merck & Co","MRK_UN",399,84.12,"USD",28790.4271744725,0.0116371274319916,1
+"62",2025-08-31,"VD50","RD","Aandelen","USD Stock","Information Technology","Microsoft","MSFT_UW",203,506.69,"USD",88229.6019900498,0.0356625178018368,1
+"63",2025-08-31,"VD50","RD","Aandelen","USD Stock","Consumer Staples","Mondelez International","MDLZ_UW",623,61.44,"USD",32833.3504889346,0.0132712821988886,NA
+"64",2025-08-31,"VD50","RD","Aandelen","USD Stock","Consumer Discretionary","Nike","NKE_UN",472,77.37,"USD",31324.9613998971,0.0126615894027456,1
+"65",2025-08-31,"VD50","RD","Aandelen","CHF Stock","Health Care","Novartis","NOVN_SE",285,101.16,"CHF",30788.7654848355,0.0124448583291054,1
+"66",2025-08-31,"VD50","RD","Aandelen","ETF","None","NT Wld SC Low Carbon Eq Index FGR Feeder B","NTSCLBE_NA",36,1283.8539,"EUR",46218.7404,0.0186816738953368,1
+"67",2025-08-31,"VD50","RD","Aandelen","USD Stock","Information Technology","Nvidia","NVDA_UW",506,174.18,"USD",75600.5146680391,0.0305578245777537,1
+"68",2025-08-31,"VD50","RD","Aandelen","USD Stock","Consumer Staples","Procter & Gamble","PG_UN",203,157.04,"USD",27345.2736318408,0.0110529945244636,1
+"69",2025-08-31,"VD50","RD","Aandelen","USD Stock","Real Estate","Prologis","PLD_UN",219,113.78,"USD",21374.0092640247,0.00863940184112889,1
+"70",2025-08-31,"VD50","RD","Aandelen","GBP Stock","Materials","Rio Tinto","RIO_LN",335,46.42,"GBP",17940.3553299492,0.00725151453587818,NA
+"71",2025-08-31,"VD50","RD","Aandelen","EUR Stock","Industrials","Schneider Electric","SU_FP",138,210.05,"EUR",28986.9,0.011716541998984,1
+"72",2025-08-31,"VD50","RD","Aandelen","EUR Stock","Energy","Shell PLC","SHELL_NA",1724,31.59,"EUR",54461.16,0.022013270423998,NA
+"73",2025-08-31,"VD50","RD","Aandelen","EUR Stock","Industrials","Siemens","SIE_GY",231,236.6,"EUR",54654.6,0.022091459119039,NA
+"74",2025-08-31,"VD50","RD","Aandelen","ETF","Information Technology","SPDR MSCI World Tech ETF","WTCH_NA",218,172.66,"EUR",37639.88,0.0152140875656493,NA
+"75",2025-08-31,"VD50","RD","Aandelen","CHF Stock","Communication Services","Swisscom","SCMN_SE",46,578,"CHF",28393.8487825715,0.0114768299395175,1
+"76",2025-08-31,"VD50","RD","Aandelen","USD Stock","Consumer Discretionary","Tesla Motors","TSLA_UW",112,333.87,"USD",32075.3474009264,0.0129648963826748,1
+"77",2025-08-31,"VD50","RD","Aandelen","USD Stock","Consumer Discretionary","TJX Companies","TJX_UN",235,136.61,"USD",27537.6136558586,0.0111307386078078,1
+"78",2025-08-31,"VD50","RD","Aandelen","USD Stock","Health Care","United Health Group","UNH_UN",93,309.87,"USD",24719.4287184766,0.00999162465703206,NA
+"79",2025-08-31,"VD50","RD","Aandelen","USD Stock","Financials","Visa","V_UN",223,351.78,"USD",67290.2213072568,0.0271987933883031,1
+"80",2025-08-31,"VD50","RD","Aandelen","ETF","None","Xtrackers MSCI Japan ESG ETF","XZMJ_GY",2183,22.79,"EUR",49750.57,0.0201092439301338,1
+"81",2025-08-31,"VD50","RM","Cash","CASH","Cash","Cash","CASH",38070.16,1,"EUR",38070.16,0.0153880072911571,NA
+"82",2025-08-31,"VP100","RD","Aandelen","USD Stock","Information Technology","Accenture A","ACN_UN",259,259.97,"USD",57756.2446388746,0.0215796777073787,1
+"83",2025-08-31,"VP100","RD","Aandelen","USD Stock","Communication Services","Alphabet - A","GOOGL_UW",729,212.91,"USD",133137.23623263,0.049744554319889,1
+"84",2025-08-31,"VP100","RD","Aandelen","USD Stock","Consumer Discretionary","Amazon.com","AMZN_UW",536,229,"USD",105287.356321839,0.0393389014520162,NA
+"85",2025-08-31,"VP100","RD","Aandelen","EUR Stock","Information Technology","ASML Holding","ASML_NA",151,636.6,"EUR",96126.6,0.0359161344383856,1
+"86",2025-08-31,"VP100","RD","Aandelen","USD Stock","Financials","Bank of America","BAC_UN",2080,50.74,"USD",90529.4218562361,0.0338248402213113,NA
+"87",2025-08-31,"VP100","RD","Aandelen","USD Stock","Financials","Blackrock","BLK_UN",105,1127.14,"USD",101518.013381369,0.0379305480119247,1
+"88",2025-08-31,"VP100","RD","Aandelen","USD Stock","Information Technology","Broadcom Inc","AVGO_UW",447,297.39,"USD",114027.560473495,0.0426045360144557,1
+"89",2025-08-31,"VP100","RD","Aandelen","USD Stock","Communication Services","Comcast Corp - CL A","CMCSA_UW",1363,33.97,"USD",39716.1691542289,0.0148392980790015,1
+"90",2025-08-31,"VP100","RD","Aandelen","USD Stock","Consumer Staples","Costco Wholesale Corp","COST_UN",60,943.32,"USD",48549.6654657746,0.018139789733616,NA
+"91",2025-08-31,"VP100","RD","Aandelen","USD Stock","Industrials","Cummins Inc","CMI_UN",372,398.44,"USD",127139.886773031,0.047503742625052,1
+"92",2025-08-31,"VP100","RD","Aandelen","ETF","Health Care","Xtrackers MSCI World Health Care","XDWH_GY",1967,44.655,"EUR",87836.385,0.0328186309745877,NA
+"93",2025-08-31,"VP100","RD","Aandelen","USD Stock","Energy","Exxon Mobil","XOM_UN",1025,114.29,"USD",100486.57574198,0.037545168180316,NA
+"94",2025-08-31,"VP100","RD","Aandelen","ETF","None","iShares Core MSCI Japan","IJPA_NA",2307,55.46,"EUR",127946.22,0.0478050158686905,NA
+"95",2025-08-31,"VP100","RD","Aandelen","USD Stock","Health Care","Johnson & Johnson","JNJ_UN",370,177.17,"USD",56229.9708354778,0.0210094104232702,NA
+"96",2025-08-31,"VP100","RD","Aandelen","EUR Stock","Consumer Discretionary","Kering","KER_FP",121,229.15,"EUR",27727.15,0.010359796840763,1
+"97",2025-08-31,"VP100","RD","Aandelen","EUR Stock","Consumer Staples","LOreal","OR_FP",175,397.9,"EUR",69632.5,0.0260170465956446,1
+"98",2025-08-31,"VP100","RD","Aandelen","USD Stock","Health Care","Merck & Co","MRK_UN",929,84.12,"USD",67033.3504889346,0.0250459168223572,1
+"99",2025-08-31,"VP100","RD","Aandelen","USD Stock","Information Technology","Microsoft","MSFT_UW",330,506.69,"USD",143427.431806485,0.0535893178674175,1
+"100",2025-08-31,"VP100","RD","Aandelen","USD Stock","Consumer Staples","Mondelez International","MDLZ_UW",1380,61.44,"USD",72728.7699433865,0.0271739173009873,NA
+"101",2025-08-31,"VP100","RD","Aandelen","CHF Stock","Health Care","Novartis","NOVN_SE",534,101.16,"CHF",57688.423750534,0.0215543375398978,1
+"102",2025-08-31,"VP100","RD","Aandelen","ETF","None","NT Wld SC Low Carbon Eq Index FGR Feeder B","NTSCLBE_NA",70,1283.8539,"EUR",89869.773,0.0335783731975873,1
+"103",2025-08-31,"VP100","RD","Aandelen","USD Stock","Information Technology","Nvidia","NVDA_UW",895,174.18,"USD",133720.277920741,0.0499623983261618,1
+"104",2025-08-31,"VP100","RD","Aandelen","USD Stock","Health Care","Pfizer","PFE_UN",1560,24.76,"USD",33132.2696860525,0.0123793315512367,NA
+"105",2025-08-31,"VP100","RD","Aandelen","USD Stock","Consumer Staples","Procter & Gamble","PG_UN",293,157.04,"USD",39468.7939612283,0.0147468703775273,1
+"106",2025-08-31,"VP100","RD","Aandelen","GBP Stock","Materials","Rio Tinto","RIO_LN",833,46.42,"GBP",44609.8984771574,0.0166677601307892,NA
+"107",2025-08-31,"VP100","RD","Aandelen","EUR Stock","Industrials","Schneider Electric","SU_FP",313,210.05,"EUR",65745.65,0.0245647885615329,1
+"108",2025-08-31,"VP100","RD","Aandelen","ETF","Information Technology","SPDR MSCI World Tech ETF","WTCH_NA",1399,172.66,"EUR",241551.34,0.090251713898257,NA
+"109",2025-08-31,"VP100","RD","Aandelen","USD Stock","Consumer Discretionary","Tesla Motors","TSLA_UW",258,333.87,"USD",73887.8538342769,0.0276069900701333,1
+"110",2025-08-31,"VP100","RD","Aandelen","USD Stock","Health Care","United Health Group","UNH_UN",196,309.87,"USD",52096.8605249614,0.0194651412453196,NA
+"111",2025-08-31,"VP100","RD","Aandelen","USD Stock","Financials","Visa","V_UN",425,351.78,"USD",128243.695316521,0.0479161626632329,1
+"112",2025-08-31,"VP100","RM","Cash","CASH","Cash","Cash","CASH",49566.97,1,"EUR",49566.97,0.0185198889612597,NA
+"113",2025-08-31,"VP50","RM","Obligaties","Staatsobligatie","Staatsobligaties","0,5% Nederland 22-32","NL0.5_732",434319,86.875,"EUR",377594.26125,0.198272100365245,1
+"114",2025-08-31,"VP50","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 25-35","NL2.5_735",122910,96.675,"EUR",119218.9125,0.062601015456072,1
+"115",2025-08-31,"VP50","RM","Obligaties","Staatsobligatie","Staatsobligaties","2,5% Nederland 12-33","NL2.5_133",392658,99.008,"EUR",394894.75264,0.207356467150616,1
+"116",2025-08-31,"VP50","RD","Aandelen","USD Stock","Information Technology","Accenture A","ACN_UN",71,259.97,"USD",15832.7929318923,0.0083136886107913,1
+"117",2025-08-31,"VP50","RD","Aandelen","USD Stock","Communication Services","Alphabet - A","GOOGL_UW",268,212.91,"USD",48944.8275862069,0.0257005859554281,1
+"118",2025-08-31,"VP50","RD","Aandelen","USD Stock","Consumer Discretionary","Amazon.com","AMZN_UW",165,229,"USD",32411.2197632527,0.0170189043567188,NA
+"119",2025-08-31,"VP50","RD","Aandelen","EUR Stock","Information Technology","ASML Holding","ASML_NA",60,636.6,"EUR",38196,0.020056451918735,1
+"120",2025-08-31,"VP50","RD","Aandelen","USD Stock","Financials","Bank of America","BAC_UN",966,50.74,"USD",42043.9526505404,0.0220769848887092,NA
+"121",2025-08-31,"VP50","RD","Aandelen","USD Stock","Financials","Blackrock","BLK_UN",33,1127.14,"USD",31905.6613484303,0.0167534391760979,1
+"122",2025-08-31,"VP50","RD","Aandelen","USD Stock","Information Technology","Broadcom Inc","AVGO_UW",163,297.39,"USD",41580.5198147195,0.0218336395544018,1
+"123",2025-08-31,"VP50","RD","Aandelen","USD Stock","Communication Services","Comcast Corp - CL A","CMCSA_UW",753,33.97,"USD",21941.5079773546,0.0115213320706973,1
+"124",2025-08-31,"VP50","RD","Aandelen","USD Stock","Consumer Staples","Costco Wholesale Corp","COST_UN",23,943.32,"USD",18610.7050952136,0.00977235081987402,NA
+"125",2025-08-31,"VP50","RD","Aandelen","USD Stock","Industrials","Cummins Inc","CMI_UN",213,398.44,"USD",72797.8383942357,0.0382256347665156,1
+"126",2025-08-31,"VP50","RD","Aandelen","ETF","Health Care","Xtrackers MSCI World Health Care","XDWH_GY",899,44.655,"EUR",40144.845,0.0210797767705406,NA
+"127",2025-08-31,"VP50","RD","Aandelen","USD Stock","Energy","Exxon Mobil","XOM_UN",422,114.29,"USD",41371.0585006005,0.021723652886283,NA
+"128",2025-08-31,"VP50","RD","Aandelen","ETF","None","iShares Core MSCI Japan","IJPA_NA",1271,55.46,"EUR",70489.66,0.03701362646764,NA
+"129",2025-08-31,"VP50","RD","Aandelen","USD Stock","Health Care","Johnson & Johnson","JNJ_UN",208,177.17,"USD",31610.3619831875,0.0165983795488954,NA
+"130",2025-08-31,"VP50","RD","Aandelen","EUR Stock","Consumer Discretionary","Kering","KER_FP",32,229.15,"EUR",7332.8,0.00385040189102786,1
+"131",2025-08-31,"VP50","RD","Aandelen","EUR Stock","Consumer Staples","LOreal","OR_FP",36,397.9,"EUR",14324.4,0.00752164205321834,1
+"132",2025-08-31,"VP50","RD","Aandelen","USD Stock","Information Technology","Microsoft","MSFT_UW",155,506.69,"USD",67367.4300909247,0.035374165423274,1
+"133",2025-08-31,"VP50","RD","Aandelen","USD Stock","Consumer Staples","Mondelez International","MDLZ_UW",457,61.44,"USD",24084.8172928461,0.0126467687717427,NA
+"134",2025-08-31,"VP50","RD","Aandelen","CHF Stock","Health Care","Novartis","NOVN_SE",300,101.16,"CHF",32409.2268261427,0.017017857879409,1
+"135",2025-08-31,"VP50","RD","Aandelen","ETF","None","NT Wld SC Low Carbon Eq Index FGR Feeder B","NTSCLBE_NA",39,1283.8539,"EUR",50070.3021,0.0262915647351866,1
+"136",2025-08-31,"VP50","RD","Aandelen","USD Stock","Information Technology","Nvidia","NVDA_UW",355,174.18,"USD",53039.8867730314,0.0278508728358585,1
+"137",2025-08-31,"VP50","RD","Aandelen","USD Stock","Health Care","Pfizer","PFE_UN",649,24.76,"USD",13783.8737347744,0.00723781549940877,NA
+"138",2025-08-31,"VP50","RD","Aandelen","USD Stock","Consumer Staples","Procter & Gamble","PG_UN",122,157.04,"USD",16434.105335392,0.00862943353981349,1
+"139",2025-08-31,"VP50","RD","Aandelen","GBP Stock","Materials","Rio Tinto","RIO_LN",256,46.42,"GBP",13709.6446700508,0.00719883833772685,NA
+"140",2025-08-31,"VP50","RD","Aandelen","EUR Stock","Industrials","Schneider Electric","SU_FP",82,210.05,"EUR",17224.1,0.00904425420184008,1
+"141",2025-08-31,"VP50","RD","Aandelen","ETF","Information Technology","SPDR MSCI World Tech ETF","WTCH_NA",247,172.66,"EUR",42647.02,0.022393651327556,NA
+"142",2025-08-31,"VP50","RD","Aandelen","USD Stock","Consumer Discretionary","Tesla Motors","TSLA_UW",44,333.87,"USD",12601.0293360782,0.00661671219514144,1
+"143",2025-08-31,"VP50","RD","Aandelen","USD Stock","Health Care","United Health Group","UNH_UN",81,309.87,"USD",21529.8250128667,0.0113051602311587,NA
+"144",2025-08-31,"VP50","RD","Aandelen","USD Stock","Financials","Visa","V_UN",153,351.78,"USD",46167.7303139475,0.0242423516399312,1
+"145",2025-08-31,"VP50","RM","Cash","CASH","Cash","Cash","CASH",32109.51,1,"EUR",32109.51,0.016860478674446,NA
