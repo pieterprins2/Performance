@@ -214,18 +214,7 @@ holdings_file <- str_c(pad_deel1, "sheet_holdings.xlsx")
 #inlezen JPM daily uit AIRS
 JPM_daily_AIRS_file <- str_c(pad_deel1, "sheet_JPM_daily_from_dec_2013.xlsx")
 
-#KOSTEN
-# kosten_sheet <- "kosten_entiteiten_etfs_spreads.xlsx"
-# #alla entiteittarieven incl bavd
-# kosten_tabel_entiteit <- read_excel(kosten_sheet, sheet = "entiteit_kosten")
-# #tabel bavd kosten voor gebruik in UI
-# kosten_tabel_bavd <- kosten_tabel_entiteit |> filter(entiteit == "BAVD") |> select(schijven, tarieven)
-# #tabel etf kosten voor gebruik in UI en berekeningen
-# kosten_tabel_etfs <- read_excel(kosten_sheet, sheet = "etf_kosten") |> 
-#   mutate(ticker = str_remove_all(ticker, " Equity")) |> mutate(ticker = str_replace(ticker, " ", "_"))
-# #tabel spreadkosten voor gebruik in UI en berekeningen
-# kosten_tabel_spreads <- read_excel(kosten_sheet, sheet = "spreadkosten") |> select(categorie, spreadkosten, omzet)
-
+#nieuwe manifest maken voor posit cloud connect
 if(bij_pp) {rsconnect::writeManifest()}
 ```
 
