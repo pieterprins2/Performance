@@ -5769,6 +5769,7 @@ attr_tabel_RDRM_simple_nice <- function(portfolio = "VP100", start_date = start_
     select(date, pf_wt_RD, pf_wt_RM, pf_rt_RD, pf_rt_RM, pf_rt, BM_rt_RD, BM_rt_RM, BM_rt, er, all_ff, sel_ff_RD, sel_ff_RM) %>%
   mutate_at(vars(-date), ~ (.*100)) |> 
   gt(id = "one") |> #id ivm container scroll css
+  tab_options(table.width = 850) |> 
   fmt_number(decimals = 1, columns = everything()) |> 
   tab_spanner(columns = 2:3, label = "startgewicht") |> 
   tab_spanner(columns = 4:6, label = "portefeuille return") |> 
@@ -6030,14 +6031,15 @@ attr_tabel_RDRM_simple_summaries_nice <- function(start_date = start_date_attr, 
   sub_zero(zero_text = " ") |> 
   gt_font_padding_align() |> 
   gt_portfolio_colors() |>
-  tab_header(str_c("Attributie RDRM, van ", format(as.Date(start_date), "%d-%b-%Y"), " t/m ", format(as.Date(end_date), "%d-%b-%Y")))
+  tab_header(str_c("Attributie RDRM, van ", format(as.Date(start_date), "%d-%b-%Y"), " t/m ", format(as.Date(end_date), "%d-%b-%Y"))) |> 
+  tab_options(table.width = 850)
 
   if(difftime(end_date, start_date) |> as.integer() > 31) {
     attributie_tabel_nice <- 
       attributie_tabel_nice |> 
       tab_footnote("De attributie is cumulatief op maandbasis en maakt gebruik van maandelijkse startgewichten. De in deze tabel vermelde gewichten zijn gemiddeld over de hele periode.",
-          locations = cells_column_spanners(spanners = "wt"))}
- 
+      locations = cells_column_spanners(spanners = "wt"))
+  } 
    if(end_date > start_date) {
      attributie_tabel_nice
    } else {
@@ -6052,6 +6054,7 @@ attr_tabel_RDRM_simple_summaries_nice <- function(start_date = start_date_attr, 
 #### ytd
 
 ```{r attr_pfs_ytd}
+
 attr_tabel_RDRM_simple_summaries_nice(start_date = last_ultimo_year, end_date = snapshot_date)
 ```
 #### qtd
@@ -6662,7 +6665,8 @@ attr_tabel_sector_summary_nice <- function(portfolio = "VP100", start_date = sta
   opt_row_striping() |> 
   gt_font_padding_align() |> 
   gt_last_row_bold() |> 
-  tab_header(str_c("Attributie sectoren, van ", format(as.Date(start_date), "%d-%b-%Y"), " t/m ", format(as.Date(end_date), "%d-%b-%Y"), ", ", portfolio)) 
+  tab_header(str_c("Attributie sectoren, van ", format(as.Date(start_date), "%d-%b-%Y"), " t/m ", format(as.Date(end_date), "%d-%b-%Y"), ", ", portfolio)) |> 
+  tab_options(table.width = 850)
    
   if(difftime(end_date, start_date) |> as.integer() > 31) {
     attributie_tabel_nice <- 
